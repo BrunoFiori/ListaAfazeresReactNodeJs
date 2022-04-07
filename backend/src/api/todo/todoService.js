@@ -9,4 +9,4 @@ Todo.updateOptions({ new:true, runValidators: true })
 
 // Node resdtfull encapsula a parte relativa ao express (webservice, expõe o servico para a web) como tambem encapsula as chamadas para a API do mongo
 // Exporta toda apirest FUNCIONANDO!!!
-module.exports =  Todo;
+module.exports = Todo;
